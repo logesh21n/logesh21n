@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Logesh N, a passionate Solidity Developer and Security Researcher.
+I'm Logesh N, a passionate Solidity Developer, Solidity Instructor and Security Researcher.
 
 ## About Me
 
