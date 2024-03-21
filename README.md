@@ -5,6 +5,7 @@ I'm Logesh N, a passionate Solidity Developer and Security Researcher.
 ## About Me
 
 - 🖥️ Solidity Developer: I specialize in developing smart contracts on blockchain platforms like Ethereum using Solidity.
+- 👨‍🏫 Solidity Instructor: With a year of experience in Solidity, I also love sharing my knowledge as an instructor, helping others learn the ins and outs of smart contract development.
 - 🔒 Security Researcher: I'm passionate about blockchain security and constantly exploring vulnerabilities and best practices in smart contract development.
 
 ## What You'll Find Here
