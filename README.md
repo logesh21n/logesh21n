@@ -15,9 +15,11 @@ I'm Logesh N, a passionate Solidity Developer, Solidity Instructor and Security 
 
 ## Connect With Me
 
-- 🐦 [Twitter](https://twitter.com/NLogesh21)
+- [Medium](https://medium.com/@logesh21n)
 
-- 💼 [Discord](logesh_n)
+- [Twitter](https://twitter.com/NLogesh21)
+
+- [Discord](logesh_n)
 
 ## Get in Touch
 
