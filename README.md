@@ -1,17 +1,17 @@
 # Hi there! 👋
 
-I'm Logesh N, a passionate Solidity Developer, Solidity Instructor and Security Researcher.
+I'm Logesh N, a dedicated Software Developer and Security Engineer with a passion for building robust applications and ensuring their security.
 
 ## About Me
 
-- 🖥️ Solidity Developer: I specialize in developing smart contracts on blockchain platforms like Ethereum using Solidity.
-- 👨‍🏫 Solidity Instructor: With a year of experience in Solidity, I also love sharing my knowledge as an instructor, helping others learn the ins and outs of smart contract development.
-- 🔒 Security Researcher: I'm passionate about blockchain security and constantly exploring vulnerabilities and best practices in smart contract development.
+- 🖥️ **Software Developer**: I specialize in developing scalable, efficient, and user-centric software solutions, with expertise in modern programming languages and frameworks.
+- 🔒 **Security Engineer**: Passionate about application and system security, I focus on identifying vulnerabilities, implementing best practices, and safeguarding digital assets. Also found valid bugs in HackerOne and BugCrowd.
 
 ## What You'll Find Here
 
-- **Security Research:** I share my findings and insights on Solidity vulnerabilities, security best practices, and emerging threats in the blockchain space.
-- **Collaboration Opportunities:** Interested in collaborating on Solidity projects or security research? Feel free to reach out!
+- **Tech Insights**: Sharing knowledge on software development, secure coding practices, and emerging trends in cybersecurity.
+- **Security Research**: Insights into vulnerabilities, threat mitigation strategies, and security enhancement techniques.
+- **Collaboration Opportunities**: Whether it's developing cutting-edge software or improving security frameworks, I'm always open to meaningful collaborations.
 
 ## Connect With Me
 
@@ -23,6 +23,7 @@ I'm Logesh N, a passionate Solidity Developer, Solidity Instructor and Security 
 
 ## Get in Touch
 
-- Have a question, suggestion, or just want to say hi? Feel free to [send me a message](https://github.com/logesh21n).
+- Have a question, suggestion, or a collaboration idea? Feel free to [send me a message](https://github.com/logesh21n).
 
-<h3 align="center">Happy Coding and Stay Secure! 🚀</h3>
+<h3 align="center">Build Secure. Code Smart. 🚀</h3>
+
